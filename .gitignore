@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+dist/
+build/
+*.pyc
+__pycache__/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Node / React
+node_modules/
+.next/
+coverage/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
